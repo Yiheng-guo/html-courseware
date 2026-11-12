@@ -20,7 +20,6 @@ git clone https://github.com/Yiheng-guo/html-courseware.git ~/.codex/skills/html
 
 - `SKILL.md`：技能入口和完整工作要求。
 - `references/course-design.md`：课程编排与版式选择。
-- `assets/deck.html`：可直接打开的基础课件模板，需要替换正文并扩展为正式课程。
-- `assets/zhaotian-prompt-courseware.html`：最终确认的完整示例课件（30 页），可直接打开对照风格。
+- `assets/zhaotian-prompt-courseware.html`：最终确认的完整示例课件（40 页），可直接打开对照风格。
 
 默认面向电脑投屏；移动端阅读需求应采用流式布局。部署到公网需单独执行，生成本地文件不等于发布。
